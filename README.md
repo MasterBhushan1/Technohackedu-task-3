@@ -1,7 +1,8 @@
 <h1 align="center">🌼 Iris Bloom - A Data Floral Symphony 🌸</h1>
 
 <p align="center">
-  <img src="[insert_image_link_here](https://www.bing.com/ck/a?!&&p=2940dd98a879d5baJmltdHM9MTY5NDgyMjQwMCZpZ3VpZD0zMGM5OWM5Ni0xZGUzLTYwMDktMDQ0OS04ZmU2MWNjYzYxZjUmaW5zaWQ9NTYwNA&ptn=3&hsh=3&fclid=30c99c96-1de3-6009-0449-8fe61ccc61f5&u=a1L2ltYWdlcy9zZWFyY2g_cT1pcmlzIGZsb3dlciBpbWFnZXMgZm9yIGdpdGh1YiZGT1JNPUlRRlJCQSZpZD05QkUwRTc4QTU3MjQ0RTI2MjBGRUFCOENEQzRGNDEwODMyMkQxNTY2&ntb=1)" alt="Iris Flowers" width="400">
+  <img src="[![Uploading image.png…]()
+)" alt="Iris Flowers" width="400">
 </p>
 
 ## Blossom of Data
